@@ -6,7 +6,7 @@ Every file starts with a **definition** of the topic, followed by **examples** a
 ## 📈 Progress
 
 - [x] 01 Basics
-- [ ] 02 Functions and Modules
+- [x] 02 Functions and Modules
 - [ ] 03 Intermediate Python
 - [ ] 04 Object-Oriented Programming
 - [ ] 05 Advanced Python
@@ -33,6 +33,7 @@ Requires **Python 3.10 or newer**.
 
 ```bash
 python 01_basics/01_hello_and_comments.py
+python 02_functions_and_modules/01_functions.py
 ```
 
 `01_basics/04_input_output.py` asks for keyboard input (name and age).
